@@ -1,0 +1,516 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1"
+    />
+    <link rel="icon" href="images/favicon.png" />
+
+    <!-- SEO
+          ================================================== -->
+    <title>The Wise Advise LTD - Coming Soon Page</title>
+    <meta name="author" content="The Wise Advise LTD" />
+    <meta name="description" content="Welcome to The Wise Advise LTD" />
+
+    <!-- CSS Files
+        ================================================== -->
+    <link rel="stylesheet" href="css/animate.css" />
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
+    <link href="css/font-awesome.min.css" rel="stylesheet" />
+    <link href="style.css" rel="stylesheet" />
+    <link href="css/style-responsive.css" rel="stylesheet" />
+  </head>
+  <body>
+    <!-- Loader -->
+    <div id="loader-wrapper" class="loader-on">
+      <div id="loader">
+        <div class="battery">
+          <span class="battery_item"></span>
+          <span class="battery_item"></span>
+          <span class="battery_item"></span>
+        </div>
+        <div class="text dir-rtl">Loading ...</div>
+      </div>
+    </div>
+    <!-- //Loader -->
+    <!-- Header Section Start -->
+    <header id="header">
+      <div class="header_part" id="head">
+        <video poster="images/video.webm" id="bgvid" autoplay muted loop>
+          <source src="images/video.webm" type="video/webm" />
+          <source src="images/video.mp4" type="video/mp4" />
+        </video>
+        <div id="polina">
+          <button><i class="fa fa-pause-circle-o"></i></button>
+        </div>
+        <div class="overlay">
+          <div class="start_part">
+            <div class="container">
+              <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                  <div class="row">
+                    <div class="site_logo">
+                      <a href="https://thewiseadvice.co.uk" title="The Wise Advice"
+                        ><img src="images/white-logo-no-bg.png" alt="" title="The Wise Advice"
+                                                                       style="width:400px;"
+                      /></a>
+                    </div>
+                    <div class="site_title">
+                      <h1>Coming Soon!</h1>
+                      <p>
+                        Our website is under construction. We will be here soon
+                        with our new awesome site.<br />
+                      </p>
+                    </div>
+                  <!--<div class="countdown wow bounceInUp">
+                      <div class="defaultCountdown"></div>
+                    </div>
+                  </div>-->
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- Menu Start -->
+        <div class="menu_area" id="stick_menu">
+          <div class="container">
+            <div class="row">
+              <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <nav class="navbar navbar-default">
+                  <div class="container-fluid">
+                    <div class="mainnavmenu">
+                      <div class="responsive-menu">
+                        <a class="resposive-logo pull-left" href="index.html"
+                          ><img src="images/logo.png" alt=""
+                        /></a>
+                        <a id="icon" class="icon pull-right">☰</a>
+                      </div>
+                      <div id="menu-center">
+                        <a id="close-menu"><i class="fa fa-close"></i></a>
+                        <ul class="nav navbar-nav navbar-right mainnav">
+                          <!-- <li><a href="#header">Start</a></li> -->
+                          <li><a href="#features">Our Services</a></li>
+                          <!-- <li><a href="#who_are">About Us</a></li> -->
+                          <!-- <li><a href="#portfolio">Portfolio</a></li> -->
+                          <!-- <li><a href="#subscribe">Get Notify</a></li> -->
+                          <li><a href="#contact_section">Get in Touch</a></li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </nav>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- Menu End-->
+      </div>
+    </header>
+    <!-- Header Section /End -->
+    <!-- features Section Start -->
+    <section id="features">
+      <div class="welcome_section">
+        <div class="container">
+          <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+              <div class="row">
+                <!-- About text start -->
+                <div class="section-title">
+                  <h2>OUR SERVICES</h2>
+                  <!-- <p>We do everything with a passion</p> -->
+                </div>
+                <!-- About text end -->
+              </div>
+              <!-- About service part start-->
+              <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+                  <div class="welcome_part wow fadeInLeft">
+                    <div class="welcome_icon">
+                      <i class="fa fa-umbrella fa-4x"></i>
+                    </div>
+                    <h2>Business/Legal Consultation</h2>
+                    <!-- <p> -->
+                    <!--   The firm is based in London, and is ready to support our clients with business -->
+                    <!--   related legal matters. -->
+                    <!-- </p> -->
+                  </div>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+                  <div class="welcome_part wow fadeInUp">
+                    <div class="welcome_icon">
+                      <i class="fa fa-desktop fa-4x"></i>
+                    </div>
+                    <h2>Business Development</h2>
+                    <!-- <p> -->
+                    <!--   On the other hand, we denounce with righteo us indignation -->
+                    <!--   and dislike men who are so asure of the moment. -->
+                    <!-- </p> -->
+                  </div>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+                  <div class="welcome_part wow fadeInDown">
+                    <div class="welcome_icon">
+                      <i class="fa fa-sliders fa-4x"></i>
+                    </div>
+                    <h2>Process Enhancement</h2>
+                    <!-- <p> -->
+                    <!--   On the other hand, we denounce with righteo us indignation -->
+                    <!--   and dislike men who are so asure of the moment. -->
+                    <!-- </p> -->
+                  </div>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+                  <div class="welcome_part wow fadeInRight">
+                    <div class="welcome_icon">
+                      <i class="fa fa-refresh fa-4x"></i>
+                    </div>
+                    <h2>Investment Consultation</h2>
+                    <!-- <p> -->
+                    <!--   On the other hand, we denounce with righteo us indignation -->
+                    <!--   and dislike men who are so asure of the moment. -->
+                    <!-- </p> -->
+                  </div>
+                </div>
+              </div>
+              <!-- About service part end-->
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- features Section /End -->
+
+    <!-- AboutUs Section Start -->
+    <!--<section id="who_are" class="about-section">-->
+    <!--  <div class="section-title">-->
+    <!--    <!-1- About text start -1->-->
+    <!--    <div class="section-title">-->
+    <!--      <h2>Who We Are</h2>-->
+    <!--      <p>-->
+    <!--        When we design and create Grand Portfolio theme. We want to provide-->
+    <!--        you tools for building portfolio focus site-->
+    <!--      </p>-->
+    <!--    </div>-->
+    <!--  </div>-->
+    <!--  <div class="row-fluid">-->
+    <!--    <div class="col-md-6 myimg"></div>-->
+    <!--    <div class="container">-->
+    <!--      <div class="row">-->
+    <!--        <div class="col-md-6 col-md-offset-6">-->
+    <!--          <div class="section-container nopadding">-->
+    <!--            <div class="textrotate">-->
+    <!--              <ul class="bxslider">-->
+    <!--                <li>-->
+    <!--                  <div class="big-title">-->
+    <!--                    <p class="lead">Vivamus quis sapien cura</p>-->
+    <!--                    <h3><span>WHO</span> WE ARE</h3>-->
+    <!--                    <div class="border-title"></div>-->
+    <!--                  </div>-->
+    <!--                  <!-1- big-title -1->-->
+    <!--                  <p>-->
+    <!--                    Phasellus nec dolor.Sed ornare semper ipsum. Sed pede-->
+    <!--                    orci volutpat sed congue vels gravida non lacus.Vivamus-->
+    <!--                    quis sed metus quisque gravida Quisque blandit sem esed-->
+    <!--                    erat. Maecenas porttitor neque eu sem. Nullam lectus-->
+    <!--                    neque, blandit quis mattis quis varius eu eros. Vivamus-->
+    <!--                    ads metus. Mauris at tellus at sapien.-->
+    <!--                  </p>-->
+    <!--                  <a href="#" class="btn btn-default" title=""-->
+    <!--                    >Learn More</a-->
+    <!--                  >-->
+    <!--                </li>-->
+    <!--                <li>-->
+    <!--                  <div class="big-title">-->
+    <!--                    <p class="lead">Vivamus quis sapien cura</p>-->
+    <!--                    <h3><span>WHAT</span> WE DO</h3>-->
+    <!--                    <div class="border-title"></div>-->
+    <!--                  </div>-->
+    <!--                  <!-1- big-title -1->-->
+    <!--                  <p>-->
+    <!--                    Phasellus nec dolor.Sed ornare semper ipsum. Sed pede-->
+    <!--                    orci volutpat sed congue vels gravida non lacus.Vivamus-->
+    <!--                    quis sed metus quisque gravida Quisque blandit sem esed-->
+    <!--                    erat. Maecenas porttitor neque eu sem. Nullam lectus-->
+    <!--                    neque, blandit quis mattis quis varius eu eros. Vivamus-->
+    <!--                    ads metus. Mauris at tellus at sapien.-->
+    <!--                  </p>-->
+    <!--                  <a href="#" class="btn btn-default" title=""-->
+    <!--                    >Get a Quote</a-->
+    <!--                  >-->
+    <!--                </li>-->
+    <!--                <li>-->
+    <!--                  <div class="big-title">-->
+    <!--                    <p class="lead">Vivamus quis sapien cura</p>-->
+    <!--                    <h3><span>OUR</span> MISSION</h3>-->
+    <!--                    <div class="border-title"></div>-->
+    <!--                  </div>-->
+    <!--                  <!-1- big-title -1->-->
+    <!--                  <p>-->
+    <!--                    Phasellus nec dolor.Sed ornare semper ipsum. Sed pede-->
+    <!--                    orci volutpat sed congue vels gravida non lacus.Vivamus-->
+    <!--                    quis sed metus quisque gravida Quisque blandit sem esed-->
+    <!--                    erat. Maecenas porttitor neque eu sem. Nullam lectus-->
+    <!--                    neque, blandit quis mattis quis varius eu eros. Vivamus-->
+    <!--                    ads metus. Mauris at tellus at sapien.-->
+    <!--                  </p>-->
+    <!--                  <a href="#" class="btn btn-default" title=""-->
+    <!--                    >Contact Us</a-->
+    <!--                  >-->
+    <!--                </li>-->
+    <!--              </ul>-->
+    <!--            </div>-->
+    <!--            <!-1- end textrotate -1->-->
+    <!--          </div>-->
+    <!--        </div>-->
+    <!--      </div>-->
+    <!--      <!-1-end of row-1->-->
+    <!--    </div>-->
+    <!--    <!-1- end container -1->-->
+    <!--  </div>-->
+    <!--  <!-1- end row fluid -1->-->
+    <!--</section>-->
+    <!--<!-1- AboutUs Section /End -1->-->
+
+    <!-- Portfolio Section Start -->
+    <!-- <section id="portfolio"> -->
+    <!--   <div class="container"> -->
+    <!--     <div class="section-title"> -->
+    <!--       <h2>Our Portfolio</h2> -->
+    <!--       <p> -->
+    <!--         When we design and create Grand Portfolio theme. We want to provide -->
+    <!--         you tools for building portfolio focus site -->
+    <!--       </p> -->
+    <!--     </div> -->
+    <!--     <ul id="filters" class="clearfix"> -->
+    <!--       <li><span class="filter" data-filter=".all">All</span></li> -->
+    <!--       <li><span class="filter" data-filter=".app">App</span></li> -->
+    <!--       <li><span class="filter" data-filter=".card">Card</span></li> -->
+    <!--       <li><span class="filter" data-filter=".icon">Icon</span></li> -->
+    <!--       <li><span class="filter" data-filter=".logo">Logo</span></li> -->
+    <!--       <li><span class="filter" data-filter=".web">Web</span></li> -->
+    <!--     </ul> -->
+
+    <!--     <div id="portfoliolist"> -->
+    <!--       <div class="portfolio all logo" data-cat="logo"> -->
+    <!--         <div class="portfolio-wrapper"> -->
+    <!--           <img src="images/portfolio/1.jpg" alt="" /> -->
+    <!--           <div class="label"> -->
+    <!--             <div class="label-text"> -->
+    <!--               <a class="text-title">Bird Document</a> -->
+    <!--               <span class="text-category">Logo</span> -->
+    <!--             </div> -->
+    <!--             <div class="label-bg"></div> -->
+    <!--           </div> -->
+    <!--         </div> -->
+    <!--       </div> -->
+    <!--       <div class="portfolio all logo" data-cat="logo"> -->
+    <!--         <div class="portfolio-wrapper"> -->
+    <!--           <img src="images/portfolio/2.jpg" alt="" /> -->
+    <!--           <div class="label"> -->
+    <!--             <div class="label-text"> -->
+    <!--               <a class="text-title">Bird Document</a> -->
+    <!--               <span class="text-category">Logo</span> -->
+    <!--             </div> -->
+    <!--             <div class="label-bg"></div> -->
+    <!--           </div> -->
+    <!--         </div> -->
+    <!--       </div> -->
+    <!--       <div class="portfolio all app" data-cat="app"> -->
+    <!--         <div class="portfolio-wrapper"> -->
+    <!--           <img src="images/portfolio/3.jpg" alt="" /> -->
+    <!--           <div class="label"> -->
+    <!--             <div class="label-text"> -->
+    <!--               <a class="text-title">Bird Document</a> -->
+    <!--               <span class="text-category">Logo</span> -->
+    <!--             </div> -->
+    <!--             <div class="label-bg"></div> -->
+    <!--           </div> -->
+    <!--         </div> -->
+    <!--       </div> -->
+    <!--       <div class="portfolio all app" data-cat="app"> -->
+    <!--         <div class="portfolio-wrapper"> -->
+    <!--           <img src="images/portfolio/4.jpg" alt="" /> -->
+    <!--           <div class="label"> -->
+    <!--             <div class="label-text"> -->
+    <!--               <a class="text-title">Bird Document</a> -->
+    <!--               <span class="text-category">Logo</span> -->
+    <!--             </div> -->
+    <!--             <div class="label-bg"></div> -->
+    <!--           </div> -->
+    <!--         </div> -->
+    <!--       </div> -->
+    <!--       <div class="portfolio all card" data-cat="card"> -->
+    <!--         <div class="portfolio-wrapper"> -->
+    <!--           <img src="images/portfolio/5.jpg" alt="" /> -->
+    <!--           <div class="label"> -->
+    <!--             <div class="label-text"> -->
+    <!--               <a class="text-title">Bird Document</a> -->
+    <!--               <span class="text-category">Logo</span> -->
+    <!--             </div> -->
+    <!--             <div class="label-bg"></div> -->
+    <!--           </div> -->
+    <!--         </div> -->
+    <!--       </div> -->
+    <!--       <div class="portfolio all card" data-cat="card"> -->
+    <!--         <div class="portfolio-wrapper"> -->
+    <!--           <img src="images/portfolio/6.jpg" alt="" /> -->
+    <!--           <div class="label"> -->
+    <!--             <div class="label-text"> -->
+    <!--               <a class="text-title">Bird Document</a> -->
+    <!--               <span class="text-category">Logo</span> -->
+    <!--             </div> -->
+    <!--             <div class="label-bg"></div> -->
+    <!--           </div> -->
+    <!--         </div> -->
+    <!--       </div> -->
+    <!--       <div class="portfolio all icon" data-cat="icon"> -->
+    <!--         <div class="portfolio-wrapper"> -->
+    <!--           <img src="images/portfolio/7.jpg" alt="" /> -->
+    <!--           <div class="label"> -->
+    <!--             <div class="label-text"> -->
+    <!--               <a class="text-title">Bird Document</a> -->
+    <!--               <span class="text-category">Logo</span> -->
+    <!--             </div> -->
+    <!--             <div class="label-bg"></div> -->
+    <!--           </div> -->
+    <!--         </div> -->
+    <!--       </div> -->
+    <!--       <div class="portfolio all icon" data-cat="icon"> -->
+    <!--         <div class="portfolio-wrapper"> -->
+    <!--           <img src="images/portfolio/8.jpg" alt="" /> -->
+    <!--           <div class="label"> -->
+    <!--             <div class="label-text"> -->
+    <!--               <a class="text-title">Bird Document</a> -->
+    <!--               <span class="text-category">Logo</span> -->
+    <!--             </div> -->
+    <!--             <div class="label-bg"></div> -->
+    <!--           </div> -->
+    <!--         </div> -->
+    <!--       </div> -->
+    <!--     </div> -->
+    <!--   </div> -->
+    <!-- </section> -->
+    <!-- <!-1- Portfolio Section /End -1-> -->
+
+    <!-- <!-1- Subscriber Section Start -1->-->
+    <!-- <section id="subscribe">-->
+    <!--   <div class="email_subscribe_section">-->
+    <!--     <div class="container">-->
+    <!--       <div class="row">-->
+    <!--         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">-->
+    <!--           <!-1- Email Subscriber text start-1->-->
+    <!--           <div class="section-title">-->
+    <!--             <h2>Get Notified At Launch</h2>-->
+    <!--             <p>-->
+    <!--               We work hard to make a new design. Our developers will reach-->
+    <!--               the best result.Fill the form below & be notified.-->
+    <!--             </p>-->
+    <!--           </div>-->
+    <!--           <!-1- Email Subscriber text end-1->-->
+    <!--           <div class="email_subscribe_form_part wow zoomIn">-->
+    <!--             <!-1- Email Subscribe Form start -1->-->
+    <!--             <form method="post" id="subscriber_form" action="contact.php">-->
+    <!--               <input-->
+    <!--                 type="email"-->
+    <!--                 id="subscriberemail"-->
+    <!--                 name="subscriber_email"-->
+    <!--                 class="form-control email_input_box"-->
+    <!--                 placeholder="example@website.com"-->
+    <!--                 required-->
+    <!--               />-->
+    <!--               <button-->
+    <!--                 type="submit"-->
+    <!--                 class="btn btn-primary email_submit_box hvr-buzz"-->
+    <!--               >-->
+    <!--                 <i class="fa fa-envelope-o"></i> Notify Me-->
+    <!--               </button>-->
+    <!--             </form>-->
+    <!--             <!-1- Email Subscribe Form End -1->-->
+    <!--             <div id="show_subscriber_msg"></div>-->
+    <!--           </div>-->
+    <!--         </div>-->
+    <!--       </div>-->
+    <!--     </div>-->
+    <!--   </div>-->
+    <!-- </section>-->
+    <!-- <!-1- Subscriber Section /End -1->-->
+    <!-- Contact Section Start -->
+    <section id="contact_section">
+      <div class="contact_section">
+        <div class="container">
+          <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+              <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-12 text-center">
+                  <div class="address_part">
+                    <div class="address">
+                      <i class="fa fa-map-marker"></i>
+                      Eden Court, Station Road, London, England, W5 3HX
+                    </div>
+                    <div class="email">
+                      <i class="fa fa-envelope-o"></i> <a
+                         href="mailto:info@thewiseadvice.co.uk">info@thewiseadvice.co.uk</a>
+                    </div>
+                    <div class="work">
+                      <i class="fa fa-clock-o" aria-hidden="true"></i> 9 AM : 5
+                      PM - Monday: Friday
+                    </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- Contact Section /End -->
+    <!-- Back To Top Start -->
+    <div id="backtotop" class="visible"><a href="#"></a></div>
+    <!-- Back To Top /End -->
+    <!--js Files-->
+    <script src="js/jquery-3.1.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/wow.min.js"></script>
+    <script src="js/jquery.countdown.min.js"></script>
+    <script src="js/bxslider.js"></script>
+    <script src="js/jquery.mixitup.min.js"></script>
+    <script src="js/script.js"></script>
+    <script type="text/javascript">
+      /* about us blixer */
+      (function ($) {
+        "use strict";
+        $(".bxslider").bxSlider({
+          mode: "vertical",
+          minSlides: 1,
+          maxSlides: 1,
+          slideMargin: 0,
+          pager: false,
+          nextText: '<i class="fa fa-arrow-down"></i>',
+          prevText: '<i class="fa fa-arrow-up"></i>',
+          speed: 1000,
+          auto: true,
+        });
+      })(jQuery);
+
+      /* Flter Portfolio */
+      $(function () {
+        var filterList = {
+          init: function () {
+            $("#portfoliolist").mixItUp({
+              selectors: {
+                target: ".portfolio",
+                filter: ".filter",
+              },
+              load: {
+                filter: ".all",
+              },
+            });
+          },
+        };
+        filterList.init();
+      });
+    </script>
+  </body>
+</html>
